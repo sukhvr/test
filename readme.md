@@ -9,6 +9,5 @@ A Node.js + Express + MongoDB-based system for managing contacts.
 
 ## Installation
 
-git clone https://github.com/
-cd 
+git clone https://github.com/sukhvr/test
 npm install
